@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anshu2607
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on backend anf frontend
+- 💞️ I’m looking to collaborate on backend and frontend
 - 📫 How to reach me ...
 
 <!---
